@@ -1,0 +1,10 @@
+com\aiimage\backend\controller\ImageGenerationController.class
+com\aiimage\backend\service\ImageGenerationService$1.class
+com\aiimage\backend\dto\GenerateImageRequest.class
+com\aiimage\backend\controller\Model3dController.class
+com\aiimage\backend\App$1.class
+com\aiimage\backend\controller\Model3dController$1.class
+com\aiimage\backend\App.class
+com\aiimage\backend\controller\Model3dController$2.class
+com\aiimage\backend\dto\GenerateImageResponse.class
+com\aiimage\backend\service\ImageGenerationService.class
