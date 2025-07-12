@@ -4,11 +4,11 @@ A full-stack AI image generation application with Next.js frontend and Spring Bo
 
 ## Prerequisites
 
-Node.js (v18 or higher)
-Java (JDK 17 or higher)
-Maven (for Spring Boot)
-Python (v3.8 or higher) - for AI models
-Git
+- Node.js (v18 or higher)
+- Java (JDK 17 or higher)
+- Maven (for Spring Boot)
+- Python (v3.8 or higher) - for AI models
+- Git
 
 
 
