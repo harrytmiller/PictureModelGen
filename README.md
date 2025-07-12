@@ -1,4 +1,4 @@
-AI Image Generator - Setup & Installation Guide
+## AI Image Generator - Setup & Installation Guide
 A full-stack AI image generation application with Next.js frontend and Spring Boot backend.
 
 
