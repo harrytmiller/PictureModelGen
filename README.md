@@ -58,7 +58,7 @@ IN NEW TERMINAL
 git clone https://github.com/VAST-AI-Research/TripoSR.git
 cd TripoSR
 pip install -r requirements.txt
-python app.py --port 5000
+python api_server.py
 ```
 
 TripoSR will start on http://localhost:5000
